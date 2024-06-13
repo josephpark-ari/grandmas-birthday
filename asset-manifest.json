@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/grandmas-birthday/static/css/main.0982cfa0.css",
-    "main.js": "/grandmas-birthday/static/js/main.4262d502.js",
+    "main.css": "/grandmas-birthday/static/css/main.72a1d268.css",
+    "main.js": "/grandmas-birthday/static/js/main.e5de0b03.js",
     "reactPlayerYouTube.js": "/grandmas-birthday/static/js/reactPlayerYouTube.71454411.chunk.js",
     "reactPlayerSoundCloud.js": "/grandmas-birthday/static/js/reactPlayerSoundCloud.2ffd92f0.chunk.js",
     "reactPlayerVimeo.js": "/grandmas-birthday/static/js/reactPlayerVimeo.ee78a349.chunk.js",
@@ -28,7 +28,6 @@
     "static/media/horizontal04.JPG": "/grandmas-birthday/static/media/horizontal04.8ca9fa47e609b2bbf6a7.JPG",
     "static/media/horizontal03.JPG": "/grandmas-birthday/static/media/horizontal03.95f775d9295c445dde81.JPG",
     "static/media/horizontal02.JPG": "/grandmas-birthday/static/media/horizontal02.10d8130d4f745010b27c.JPG",
-    "static/media/video.mp4": "/grandmas-birthday/static/media/video.f8f586d853f3b91debbe.mp4",
     "static/media/Video05.mp4": "/grandmas-birthday/static/media/Video05.5b701fcc2ca784bb06be.mp4",
     "static/media/Video03.mp4": "/grandmas-birthday/static/media/Video03.1528421e0dfcea4a2f08.mp4",
     "static/media/horizontal05.jpg": "/grandmas-birthday/static/media/horizontal05.754493ee0dc75b1df3fc.jpg",
@@ -52,10 +51,6 @@
     "static/media/bg-image-13.jpg": "/grandmas-birthday/static/media/bg-image-13.905218e27cb80329becc.jpg",
     "static/media/bg-image-29.jpg": "/grandmas-birthday/static/media/bg-image-29.905218e27cb80329becc.jpg",
     "static/media/bg-image-6.jpg": "/grandmas-birthday/static/media/bg-image-6.905218e27cb80329becc.jpg",
-    "static/media/dp-big--portfolio-02.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-02.905218e27cb80329becc.jpg",
-    "static/media/dp-big--portfolio-03.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-03.905218e27cb80329becc.jpg",
-    "static/media/dp-big--portfolio-04.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-04.905218e27cb80329becc.jpg",
-    "static/media/dp-big--portfolio-05.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-05.905218e27cb80329becc.jpg",
     "static/media/dp-big--portfolio-06.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-06.905218e27cb80329becc.jpg",
     "static/media/dp-big--portfolio-07.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-07.905218e27cb80329becc.jpg",
     "static/media/dp-big--portfolio-08.jpg": "/grandmas-birthday/static/media/dp-big--portfolio-08.905218e27cb80329becc.jpg",
@@ -94,8 +89,8 @@
     "static/media/slick.ttf": "/grandmas-birthday/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/grandmas-birthday/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/grandmas-birthday/index.html",
-    "main.0982cfa0.css.map": "/grandmas-birthday/static/css/main.0982cfa0.css.map",
-    "main.4262d502.js.map": "/grandmas-birthday/static/js/main.4262d502.js.map",
+    "main.72a1d268.css.map": "/grandmas-birthday/static/css/main.72a1d268.css.map",
+    "main.e5de0b03.js.map": "/grandmas-birthday/static/js/main.e5de0b03.js.map",
     "reactPlayerYouTube.71454411.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerYouTube.71454411.chunk.js.map",
     "reactPlayerSoundCloud.2ffd92f0.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerSoundCloud.2ffd92f0.chunk.js.map",
     "reactPlayerVimeo.ee78a349.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerVimeo.ee78a349.chunk.js.map",
@@ -112,7 +107,7 @@
     "reactPlayerPreview.5e925587.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerPreview.5e925587.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0982cfa0.css",
-    "static/js/main.4262d502.js"
+    "static/css/main.72a1d268.css",
+    "static/js/main.e5de0b03.js"
   ]
 }
