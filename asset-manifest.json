@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/grandmas-birthday/static/css/main.72a1d268.css",
-    "main.js": "/grandmas-birthday/static/js/main.39372375.js",
+    "main.js": "/grandmas-birthday/static/js/main.745388ab.js",
     "reactPlayerYouTube.js": "/grandmas-birthday/static/js/reactPlayerYouTube.71454411.chunk.js",
     "reactPlayerSoundCloud.js": "/grandmas-birthday/static/js/reactPlayerSoundCloud.2ffd92f0.chunk.js",
     "reactPlayerVimeo.js": "/grandmas-birthday/static/js/reactPlayerVimeo.ee78a349.chunk.js",
@@ -90,7 +90,7 @@
     "static/media/slick.woff": "/grandmas-birthday/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/grandmas-birthday/index.html",
     "main.72a1d268.css.map": "/grandmas-birthday/static/css/main.72a1d268.css.map",
-    "main.39372375.js.map": "/grandmas-birthday/static/js/main.39372375.js.map",
+    "main.745388ab.js.map": "/grandmas-birthday/static/js/main.745388ab.js.map",
     "reactPlayerYouTube.71454411.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerYouTube.71454411.chunk.js.map",
     "reactPlayerSoundCloud.2ffd92f0.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerSoundCloud.2ffd92f0.chunk.js.map",
     "reactPlayerVimeo.ee78a349.chunk.js.map": "/grandmas-birthday/static/js/reactPlayerVimeo.ee78a349.chunk.js.map",
@@ -108,6 +108,6 @@
   },
   "entrypoints": [
     "static/css/main.72a1d268.css",
-    "static/js/main.39372375.js"
+    "static/js/main.745388ab.js"
   ]
 }
